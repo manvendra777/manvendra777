@@ -13,47 +13,53 @@
 
 - 🌟 I'm passionate about working with distributed systems, cloud security, and solving large-scale performance challenges.  
 - 🚀 Experienced in building robust microservices for cloud platforms (AWS, GCP, Azure) and scaling applications.  
-- 🛠️ I love coding in **Go, Python, and Java**, with a knack for optimizing performance.  
+- 🛠️ I love coding in **Go, Python, Java, and C++** (for DSA) 🙃
 - 💡 Currently diving deeper into **Big Data** and **Parallel Processing**.
 
 ---
 
 ## 🛠️ **Tech Stack:**
 
-### Languages & Frameworks:
-![Go](https://img.shields.io/badge/-Go-blue?logo=go&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square)
+### Languages
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</p>
 
-### Databases & Cloud:
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white&style=flat-square)
-![GCP](https://img.shields.io/badge/-GCP-blue?logo=googlecloud&logoColor=white&style=flat-square)
-![Azure](https://img.shields.io/badge/-Azure-blue?logo=microsoftazure&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white&style=flat-square)
+### Databases & Cloud
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+</p>
 
-### Tools & Platforms:
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&logoColor=white&style=flat-square)
-![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apachekafka&logoColor=white&style=flat-square)
-![CI/CD](https://img.shields.io/badge/-CI/CD-green?logo=githubactions&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-blue?logo=linux&logoColor=white&style=flat-square)
+### Tools & Platforms
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="CI/CD" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📊 **GitHub Stats:**
 
-![Manvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=manvendra777&show_icons=true&theme=radical)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendra777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manvendra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendra777&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manvendra777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🏆 **LeetCode Stats & Heatmap**:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/manvendra777?theme=dark&font=Abel)
+![LeetCode Streak](https://leetcard.jacoblin.cool/?username=manvendra777&theme=light&ext=heatmap)
   
 ---
 
