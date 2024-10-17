@@ -54,7 +54,10 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendra777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manvendra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendra777&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=manvendra777.manvendra777)
+<div align="left">
+  <p style="font-size: large;"><b>You are visitor</b></p>
+  <img src="https://profile-counter.glitch.me/manvendra777/count.svg" alt="Visitor Count" />
+</div>
 
 ---
 
